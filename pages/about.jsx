@@ -17,18 +17,17 @@ function About() {
               About
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor id pariatur nostrud
-              labore nulla veniam sunt occaecat est officia ut cillum do eiusmod
-              enim consequat nulla in ut esse irure ex commodo excepteur
-              pariatur in consectetur consectetur in dolor aliqua ex sint minim
-              dolore ut ea ad dolor est deserunt incididunt exercitation qui
-              laboris ad do minim sunt elit occaecat excepteur deserunt sint
-              sunt laboris dolore amet sit fugiat tempor reprehenderit laborum
-              et irure commodo exercitation ea excepteur esse mollit ad nisi sit
-              laboris dolore ad sunt eiusmod dolore do nisi id commodo in et
-              aliqua sed ullamco ea id duis aliquip commodo qui sed aute ut
-              aliqua.
+              Hi there! My name is Onyinyechi Ogbuebele and I am a Full Stack
+              Developer who is still learning and constantly improving my
+              skills. I have always been passionate about technology and how it
+              can be used to solve problems and make our lives easier. My
+              journey in development just started but I have been on a mission
+              to learn as much as I can about web development and software
+              engineering. I am currently learning proficient Css, Html, React
+              and JavaScript. While I may still have a lot to learn, I am
+              excited about the possibilities and challenges that lie ahead and
+              look forward to continuing to grow and develop my skills as a Full
+              Stack Developer.
             </p>
           </div>
         </div>
